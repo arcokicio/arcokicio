@@ -1,4 +1,8 @@
 ## Thiago Martins de Araujo 
+
+https://avatar-web-green.vercel.app/
+
+
 Java Script, Python, C e C# Automacao e Infraestrutura 👋
 
 <!--
