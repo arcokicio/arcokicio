@@ -1,7 +1,6 @@
 ## Thiago Martins de Araujo 
 
-https://avatar-web-arcokicios-projects.vercel.app
-
+https://arcokicio-avatarweb.vercel.app/
 
 Java Script, Python, C e C# Automacao e Infraestrutura 👋
 
